@@ -15,11 +15,15 @@
 RanoArts/RanoArts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
 
-## 🚀 MY SKILLS
+## 🚀 MY SKILLS 
+<hr>
+<br>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
 
+<br>
 
 ## 📊 MY GITHUB CURRENT STATUS
 <hr>
@@ -28,11 +32,15 @@ You can click the Preview link to take a look at your changes.
 
 ![Raniere Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanoArts&show_icons=true&theme=chartreuse-dark)
 
+<br>
+
 ## 💻 TECHNOLOGIES
 <hr>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanoArts&layout=compact)
+<br>
+
 ## CONTACT ME
 <hr>
 <br>

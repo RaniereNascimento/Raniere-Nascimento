@@ -1,8 +1,8 @@
-# About me
+# 👨 About me
 <hr>
 <br>
 
-## BIO
+## 📝 BIO
 <hr>
 <br>
 
@@ -16,20 +16,27 @@ RanoArts/RanoArts is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🚀 MY SKILLS
 
-## MY GITHUB CURRENT STATUS
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
+
+
+## 📊 MY GITHUB CURRENT STATUS
 <hr>
 <br>
 
 
 ![Raniere Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanoArts&show_icons=true&theme=chartreuse-dark)
 
-## TECHNOLOGIES
+## 💻 TECHNOLOGIES
 <hr>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanoArts&layout=compact)
+## CONTACT ME
+<hr>
+<br>
 
- [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/raniere-nascimento-9351b653)
-
+ [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/raniere-nascimento-9351b653/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt='website' height='30'>](https://aprendajogando.com.br/)
 

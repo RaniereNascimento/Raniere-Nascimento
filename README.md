@@ -46,5 +46,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/raniere-nascimento-9351b653/)
+ [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='30'>](rano.art.edu@gmail.com)
+
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt='website' height='30'>](https://aprendajogando.com.br/)
 

@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-<p>- 👋 Hi, I’m Raniere @RanoArts</p>
+<p>- 👋 Hi, I’m Raniere </p>
 <p>- 👀 I’m interested in  educational applications and games ...</p>
 <p>- 🌱 I’m currently learning HTML,JAVASCRIPT AND PYTHON.</p>
 <p>- 💞️ I’m looking to collaborate on some projects.</p>
